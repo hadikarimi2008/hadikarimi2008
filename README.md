@@ -1,16 +1,22 @@
-## Hi there 👋
+# About Me:
+<br>I’m Hadi,my Nickname is Alexander, a 17-year-old front-end developer from Iran with a strong passion for building modern, responsive, and high-performance web applications. I specialize in creating clean user interfaces and seamless user experiences using technologies such as HTML, CSS, JavaScript, React, and Next.js.<br><br>I’m highly motivated to grow in the field of web development, continuously learn new tools and frameworks, and improve both my technical and creative skills. My goal is to become a world-class developer who can build real, scalable products and contribute to impactful projects.<br><br>Beyond coding, I’m always exploring new ideas, sharpening my problem-solving abilities, and staying up-to-date with the latest trends in the frontend ecosystem.
 
-<!--
-**DevAlexander2008/DevAlexander2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3-black.svg&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📄 Identity and Detailed Skills
+**For a full and in-depth view of my technical skills, experience breakdown, and professional identity, please refer to my official documentation:** **[View Full Technical Identity (citizenhadi-identity.md)](https://github.com/citizenhadi/citizenhadi-identity)**
+
+---
+
+## 🎓 Certifications & Credentials
+**View verifiable documentation of my professional certifications and courses:** **[View All Certificates Here](https://certificates-zeta.vercel.app/)**
+
+---
+
+## 🌐 Website
+Visit my personal website: [www.hadikarimi2008.ir](https://www.hadikarimi2008.ir)
