@@ -72,6 +72,7 @@ const hadi = {
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=hadikarimi2008&theme=dark&border_radius=20&background=0D1117&gradient=true&gradientColors=003B8E%2C1E90FF%2C87CEEB%2C4B0082%2C1E90FF&ring=00BFFF&fire=87CEFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00BFFF&sideLabels=1E90FF&dates=8B949E&stroke=00BFFF&strokeWidth=3)](https://git.io/streak-stats)
 
+
 </div>
 
 ---
@@ -93,6 +94,12 @@ const hadi = {
 
  **View verifiable documentation of my professional certifications and courses:**
 
+  <img width="49%" alt="CS50x-Harvard-University" src="https://github.com/user-attachments/assets/27b7033e-99f8-4bb1-ae30-7a0de5602a52" />
+
+  <img width="48.5%" alt="Emerging Technologies   Future Jobs – Techno-Sharif" src="https://github.com/user-attachments/assets/0cb1339c-8724-407a-9d28-8621832504a2" />
+
+
+<br>
 <br>
 
 <a href="https://certificates-zeta.vercel.app/">
