@@ -66,14 +66,6 @@ const hadi = {
   funFact: "I think dark mode is the only mode."
 };
 ```
----
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=hadikarimi2008&theme=dark&border_radius=20&background=0D1117&gradient=true&gradientColors=003B8E%2C1E90FF%2C87CEEB%2C4B0082%2C1E90FF&ring=00BFFF&fire=87CEFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00BFFF&sideLabels=1E90FF&dates=8B949E&stroke=00BFFF&strokeWidth=3)](https://git.io/streak-stats)
-
-
-</div>
 
 ---
 ## 📄 Professional Identity
