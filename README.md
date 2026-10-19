@@ -56,7 +56,7 @@ const hadi = {
   location: "Iran",
   role: "Frontend Developer",
   level: "Mid-Level",
-  languages: ["JavaScript"],
+  languages: ["TypeScript"],
   technologies: {
     frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap", "Framer", "WordPress"],
     backend: ["Prisma"],
