@@ -54,16 +54,16 @@
 
 ```javascript
 const hadi = {
-  pronouns: "he" | "him",
+  pronouns: "he/him",
   location: "Iran",
   role: "Frontend Developer",
   level: "Mid-Level",
-  languages: ["TypeScript"],
+  languages: ["JavaScript", "TypeScript", "Python", "C++"],
   technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap", "Framer", "WordPress"],
-    backend: ["Prisma"],
-    database: ["PostgreSQL"],
-    tools: ["Git", "GitHub", "Vercel", "Cloudflare", "VS Code"]
+    frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap", "Framer"],
+    backend: ["Node.js", "Express.js"],
+    database: [],
+    tools: ["Git", "GitHub", "npm", "WordPress", "Vercel", "Cloudflare", "VS Code"]
   },
   currentFocus: "Building modern, high-performance web experiences",
   funFact: "I think dark mode is the only mode."
