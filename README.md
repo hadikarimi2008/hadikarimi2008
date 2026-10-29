@@ -35,6 +35,7 @@
 ![Express JS](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
